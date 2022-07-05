@@ -1,3 +1,7 @@
+body
+{
+    background-image: -webkit-linear-gradient(black, rgb(0, 3, 93), rgb(164, 0, 0));
+}
 .heading
 {
     font-size: 23px;
@@ -16,7 +20,7 @@
     color: white;
     bottom: 0;
     width: 100%;
-    background-color:grey;
+    background-color:rgb(0, 0, 0);
     line-height: 3;
     text-align: center;
  }
@@ -27,3 +31,4 @@
     box-shadow: 5px 5px 5px grey;
  }
 
+ 
